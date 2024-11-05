@@ -1,0 +1,8 @@
+This project focuses on predicting the likelihood of patients getting chronic kidney diseases using patient health data and analyzing kidney CT scans to gain further insights. Using machine learning models, we aim to identify key factors influencing getting chronic kidney diseases, while image processing techniques are applied to kidney CT scans to detect and analyze potential abnormalities. The project includes data preprocessing, exploratory analysis, model building, and evaluation, with all code and documentation organized for reproducibility and ease of use.
+
+data/                # Contains raw and processed data files
+notebooks/           # Jupyter notebooks for data analysis, preprocessing, and modeling├
+src/                 # Python scripts with reusable code for preprocessing and modeling
+models/              # Saved machine learning models
+results/             # Output results like evaluation metrics and plots
+reports/             # Project reports, including proposals and progress updates
