@@ -1,8 +1,0 @@
-Model,Train Accuracy,Test Accuracy,Cross-Validation Accuracy,Cross-Validation STD
-Decision Tree (Best Parameters),,0.975,0.98,0.017
-Decision Tree (More Regularized),0.9792,0.9875,0.9375,0.0373
-Gradient Boosting,1.0,0.9875,0.98,
-Naive Bayes,,0.9375,0.94,0.0267
-Logistic Regression,,0.9875,0.975,0.0159
-Naive Bayes,,0.9375,0.94,0.0267
-Logistic Regression,,0.9875,0.975,0.0159
